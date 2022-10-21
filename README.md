@@ -1,7 +1,10 @@
 # Disaster-Response-Pipeline Project
 
-### Github Repository
+### GitHub Repository Link
 https://github.com/reaganmugonya/Disaster-Response-Pipeline.git
+
+### GitHub CLI
+gh repo clone reaganmugonya/Disaster-Response-Pipeline
 
 ### Motivation
 This projects involves using data engineering skills to build a Machine learning pipeline to analyze data from [Appen](https://appen.com/) (formally Figure 8) to classify disaster messages so that they can be sent to the appropriate disaster relief agency.
